@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pg-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulogarcia01/)
 
-
+![Pgpostit's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgpostit&show_icons=true&theme=tokyonight)
 
 ###### Obs: Most of my works are private or in company account.
 
