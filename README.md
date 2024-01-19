@@ -18,8 +18,6 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-##### Passionate about solving problems and overcoming challenges.
-
 ## Take a look on what I've been coding on...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgpostit&hide_progress=true)
